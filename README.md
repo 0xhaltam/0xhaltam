@@ -1,4 +1,5 @@
 <img src="https://i.imgur.com/24OXzFw.png" alt="Gabriel Fernandes" width="100%" />
+<br />
 
 # About me
 
