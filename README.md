@@ -5,7 +5,6 @@
 
 &emsp;Graduated in the IT field, working for 5 years, enthusiast in quantum computing and Blockchain. I am currently graduating with a bachelor's degree in physics and mathematics. Passionate about the open-source universe, dApps, fintechs and financial softwares. Linux Fanboy.
 
-
 ```Cobol
 * I LOVE COBOL
 IDENTIFICATION DIVISION.
@@ -16,6 +15,11 @@ PROCEDURE DIVISION.
 DISPLAY "GABRIEL FERNANDES".
 STOP RUN.
 ```
+<br />
+
+<div align="center">
+  <a href="https://app.daily.dev/witchcadaver"><img src="https://api.daily.dev/devcards/c9847577c3cf4e9ab08285881c39c59f.png?r=yln" width="400" alt="Gabriel Fernandes's Dev Card"/></a>
+</div>
 
 <br />
 
