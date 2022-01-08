@@ -48,7 +48,7 @@ STOP RUN.
 </div>
 <br />
 <div align="center">
-  <small><i>-- use vim editor --</i></small>
+  <small><i>-- use Emacs --</i></small>
 </div>
 <br />
 
