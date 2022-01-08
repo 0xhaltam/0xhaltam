@@ -15,11 +15,6 @@ PROCEDURE DIVISION.
 DISPLAY "GABRIEL FERNANDES".
 STOP RUN.
 ```
-<br />
-
-<div align="center">
-  <a href="https://app.daily.dev/gabrielfctba"><img src="https://api.daily.dev/devcards/c9847577c3cf4e9ab08285881c39c59f.png?r=yt5" width="400" alt="Gabriel Fernandes's Dev Card"/></a>
-</div>
 
 <br />
 
