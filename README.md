@@ -58,6 +58,4 @@ STOP RUN.
 <br />
 <img src="https://i.imgur.com/XX0kWk3.gif" alt="Dev" />
 
-<div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px"/>
-</div>
+<br />
