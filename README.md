@@ -1,6 +1,3 @@
-<img src="https://i.imgur.com/24OXzFw.png" alt="Gabriel Fernandes" width="100%" />
-<br />
-
 # About me
 
 &emsp;Graduated in the IT field, working for 5 years, enthusiast in quantum computing and Blockchain. I am currently graduating with a bachelor's degree in physics and mathematics. Passionate about the open-source universe, dApps, fintechs and financial softwares. Linux Fanboy.
