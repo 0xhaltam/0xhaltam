@@ -1,10 +1,10 @@
 # About me
 
-&emsp;Graduated in the IT field, working for 5 years, enthusiast in quantum computing and Blockchain. I am currently graduating with a bachelor's degree in physics and mathematics. Passionate about the open-source universe, dApps, fintechs and financial softwares. Linux Fanboy.
+&emsp;Graduated in IT, I've been working for over six years as a developer where I've been working as a fullstack, with a preference in the backend and a lot of experience in integration with payment systems and fintechs. I'm passionate about retro and low-level computing. I really enjoy creating hack roms on NES, SNES and Gameboy (all of them). I'm currently in my second college, computer engineering. I really like the open-source universe and everything that surrounds it. Linux fanboy! Doomaniac!
 
 ```Cobol
 * I LOVE COBOL
-IDENTIFICATION DIVISION.
+IDENTIFICATION DIVISION.Desenvolvedor de software há mais de seis anos e há dois anos venho me dedicando a contribuições com o universo open-source. Fascinado por computação antiga e emuladores. Tenho um grande conhecimento como fullstack, principalmente na criação de APIs e serviços web. Atualmente venho me especializando em cloud, docker e kubernetes. Linux Fanboy!
 PROGRAM-ID. MYNAME.
 AUTHOR. FERNANDES. 
 
@@ -42,13 +42,9 @@ STOP RUN.
 <div align="center">
   <small><i>-- use Emacs --</i></small>
 </div>
-<br />
-
-## Physics and Mathematics
-
-&emsp;Since my adolescence I have always loved physics and with my brother graduating in the field, it created more motivation for me to start my bachelor's degree in physics and the passion for understanding numbers motivated me to start my bachelor's degree in mathematics. Within physics I am extremely fascinated by the quantum universe and everything that surrounds it, considering myself a student and enthusiast in quantum physics. In the field of mathematics, geometry and the study of prime numbers has become a great passion, in which I have aspirations of writing some things about in a possible master's degree in the future. My main objective currently is to join IMPA (Institute of Pure and Applied Mathematics) in Rio de Janeiro to start my studies in the areas that fascinate me so much.
 
 <br />
+
 <div align="center">
   <i>Come to the dark side of the force, use command line interface...</i>
 </div>
