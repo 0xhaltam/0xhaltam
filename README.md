@@ -4,7 +4,7 @@
 
 ```Cobol
 * I LOVE COBOL
-IDENTIFICATION DIVISION.Desenvolvedor de software há mais de seis anos e há dois anos venho me dedicando a contribuições com o universo open-source. Fascinado por computação antiga e emuladores. Tenho um grande conhecimento como fullstack, principalmente na criação de APIs e serviços web. Atualmente venho me especializando em cloud, docker e kubernetes. Linux Fanboy!
+IDENTIFICATION DIVISION.
 PROGRAM-ID. MYNAME.
 AUTHOR. FERNANDES. 
 
