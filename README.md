@@ -1,7 +1,6 @@
-<img src="https://i.imgur.com/LvqMdcz.jpg" alt="banner" width="100%" />
-<br />
-
 # About me
+
+<img src="https://i.imgur.com/LvqMdcz.jpg" alt="banner" width="100%" />
 
 &emsp;Graduated in IT, I've been working for over six years as a developer where I've been working as a fullstack, with a preference in the backend and a lot of experience in integration with payment systems and fintechs. I'm passionate about retro and low-level computing. I really enjoy creating hack roms on NES, SNES and Gameboy (all of them). I'm currently in my second college, computer engineering. I really like the open-source universe and everything that surrounds it. Linux fanboy! Doomaniac!
 
