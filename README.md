@@ -2,9 +2,11 @@
 
 <img src="https://i.imgur.com/LvqMdcz.jpg" alt="banner" width="100%" />
 
-&emsp;Graduated in IT, I've been working for over six years as a developer where I've been working as a fullstack, with a preference in the backend and a lot of experience in integration with payment systems and fintechs. I'm passionate about retro and low-level computing. I really enjoy creating hack roms on NES, SNES and Gameboy (all of them). I'm currently in my second college, computer engineering. I really like the open-source universe and everything that surrounds it. Linux fanboy! Doomaniac!
+&emsp;Graduated in IT, I have been working for over eight years as a developer, primarily focusing on backend and DevOps. During this time, I have specialized in the maintenance, documentation, and development of legacy software using C# and Java. I have extensive experience integrating with payment systems and fintechs. I'm passionate about retro and low-level computing and enjoy creating hack ROMs for NES, SNES, and Gameboy. Currently, I am pursuing my second degree in computer engineering. I am a Linux enthusiast and a Doomaniac!
 
-```Cobol
+<br />
+
+``` cobol
 * I LOVE COBOL
 IDENTIFICATION DIVISION.
 PROGRAM-ID. MYNAME.
@@ -19,7 +21,26 @@ STOP RUN.
 
 ## Software Development
 
-&emsp;I had contact with computers from an early age and I always spent hours and hours in front of them. Where I had the opportunity to learn several things from creating games, going through the development of my own rpgs, to learning 3D in a self-taught way that allowed me to start as a freelancer and later open my first company, where I worked with virtualization of environments and renderings for interior design. What always made me happy with 3D was the freedom to be able to work with programming to write shaders and all the math involved in the process. I am extremely passionate about the history of computing and everything that involves computers. Due to my ease with numbers since my first experience in a bank, I have always continued working in the financial area, where I somehow consider myself an enthusiast in relation to cryptocurrencies and blockchain. I have extensive experience in creating, integrating and maintaining payment and finance software.
+&emsp;I had contact with computers from an early age and always spent hours and hours in front of them. This early exposure allowed me to develop a deep understanding of various technologies and systems. Over the years, I have honed my skills in backend development, focusing on C# and Java, and have gained extensive experience in DevOps practices. I am proficient in managing queues, working with AWS, designing architectures, and implementing RESTful, SOAP, and gRPC services. 
+
+&emsp;My experience also includes using Jenkins for continuous integration and deployment, conducting comprehensive testing, and utilizing Docker and Kubernetes for containerization and orchestration. As a Linux enthusiast, I have a deep understanding of system administration, scripting, and leveraging command-line tools to streamline workflows. Additionally, I prioritize security in all aspects of development, ensuring robust and secure solutions for the financial and fintech sectors.
+
+&emsp;Due to my ease with numbers since my first experience in a bank, I have always continued working in the financial area, where I consider myself an enthusiast in relation to cryptocurrencies and blockchain. I have extensive experience in creating, integrating, and maintaining payment and finance software.
+
+<br />
+
+``` erlang
+-module(gabriel).
+-export([about_me/0]).
+
+about_me() ->
+    io:format("Gabriel Fernandes~n"),
+    io:format("Backend/DevOps Developer~n"),
+    io:format("Brazilian~n"),
+    io:format("Emacs User~n").
+```
+
+<br />
 
 <h3>My best programming languages:</h3>
 <div align="center">
@@ -52,5 +73,3 @@ STOP RUN.
 </div>
 <br />
 <img src="https://i.imgur.com/XX0kWk3.gif" alt="Dev" />
-
-<br />
