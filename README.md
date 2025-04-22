@@ -62,22 +62,6 @@ about_me() ->
 
 <br />
 
-<h3>My best programming languages:</h3>
-<div align="center">
-  <img src="https://i.imgur.com/9oD8P7T.png" alt="Bash" width="48px" />
-  <img src="https://i.imgur.com/f4XjZ0f.png" alt="C" width="48px" />
-  <img src="https://i.imgur.com/2rlN4og.png" alt="C++" width="48px" />
-  <img src="https://i.imgur.com/YuVqTQb.png" alt="C#" width="48px" />
-  <img src="https://i.imgur.com/Oz8nHlZ.png" alt="Clojure" width="48px" />
-  <img src="https://i.imgur.com/MqQPjKU.png" alt="Elixir" width="48px" />
-  <img src="https://i.imgur.com/HYPx5J0.png" alt="Haskell" width="48px" />
-  <img src="https://i.imgur.com/VixBGMm.png" alt="Java" width="48px" />
-  <img src="https://i.imgur.com/cDlXCo8.png" alt="Javascript" width="48px" />
-  <img src="https://i.imgur.com/e2atmIY.png" alt="Kotlin" width="48px" />
-  <img src="https://i.imgur.com/NPiJizK.png" alt="PHP" width="48px" />
-  <img src="https://i.imgur.com/ZCUVfjJ.png" alt="Python" width="48px" />
-</div>
-<br />
 <div align="center">
   <small><i>-- use Emacs --</i></small>
 </div>
@@ -85,7 +69,7 @@ about_me() ->
 <br />
 
 <div align="center">
-  <i>Come to the dark side of the force, use command line interface...</i>
+  <i>Come to the dark side of the force, S CLI+TUI 2...</i>
 </div>
 <br />
 <img src="https://i.imgur.com/XX0kWk3.gif" alt="Dev" />
