@@ -2,6 +2,27 @@
 
 <img src="https://i.imgur.com/ISObCPF.jpeg" alt="banner" width="100%" />
 
+<br />
+
+``` brainfuck
++++ [> +++ < -] > [< ++++++++ > -] < .          
+> +++ [ > +++ < -] > - [< ++++++++ > -] < + .   
+> +++ [ > +++ < -] > [ < ++++++++ > -] < ++++ . 
+> +++ [ > +++ < -] > [ < +++++++++ > -] < +++ . 
+>> +++++++++++++ [ < +++++ > -] < .             
+>> +++++++++++ [ < +++++++ > -] < .             
+>> ++++ [ < ++++++++ > -] < .                   
+> +++ [ > +++ < -] > [ < +++++++++ > -] < ++ .  
+>> ++++++++++ [ < +++++++++ > - ] < - .         
+>> ++++++++ [ < ++++++++++ > - ] < +++ .        
+>> ++++++++ [ < +++++++++++ > - ] < ---- .      
+> +++ [ > +++ < - ] > + [ < +++++++  > -] < - . 
+>> +++++++ [ < +++++++++++ > - ] < .            
+>> +++++++++ [ < +++++++++ > - ] < ++ .         
+```
+
+<br />
+
 &emsp;Graduated in IT, I have been working for over eight years as a developer, primarily focusing on backend and DevOps. During this time, I have specialized in the maintenance, documentation, and development of legacy software using C# and Java. I have extensive experience integrating with payment systems and fintechs. I'm passionate about retro and low-level computing and enjoy creating hack ROMs for NES, SNES, and Gameboy. Currently, I am pursuing my second degree in computer engineering. I am a Linux enthusiast and a Doomaniac!
 
 <br />
