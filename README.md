@@ -1,7 +1,5 @@
 # About me
 
-<img src="https://i.imgur.com/ISObCPF.jpeg" alt="banner" width="100%" />
-
 <br />
 
 ``` brainfuck
