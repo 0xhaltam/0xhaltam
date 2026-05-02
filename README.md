@@ -2,6 +2,10 @@
 
 <br />
 
+<img src="https://i.imgur.com/xYpikF2.jpeg" alt="Dev" />
+
+<br />
+
 ``` brainfuck
 +++ [> +++ < -] > [< ++++++++ > -] < .          
 > +++ [ > +++ < -] > - [< ++++++++ > -] < + .   
@@ -21,7 +25,9 @@
 
 <br />
 
-&emsp;Graduated in IT, I have been working for over eight years as a developer, primarily focusing on backend and DevOps. During this time, I have specialized in the maintenance, documentation, and development of legacy software using C# and Java. I have extensive experience integrating with payment systems and fintechs. I'm passionate about retro and low-level computing and enjoy creating hack ROMs for NES, SNES, and Gameboy. Currently, I am pursuing my second degree in computer engineering. I am a Linux enthusiast and a Doomaniac!
+&emsp;With over eight years of experience in software development, I have specialized in building and maintaining systems where data integrity and security are non-negotiable pillars. Currently, I focus on Blockchain Infrastructure and Cryptography Systems, merging solid backend expertise in Go, C#, and Typescript with rigorous DevOps practices.  
+
+&emsp;My transition to a B.Sc. in Mathematics aims to provide a theoretical foundation for my work in cryptography, focusing on Linear Algebra and Number Theory for next-generation protocol applications. I am a low-level computing enthusiast with hands-on experience in Assembly (6502/x86_64) and retro-hardware development. Doomaniac!
 
 <br />
 
@@ -40,22 +46,23 @@ STOP RUN.
 
 ## Software Development
 
-&emsp;I had contact with computers from an early age and always spent hours and hours in front of them. This early exposure allowed me to develop a deep understanding of various technologies and systems. Over the years, I have honed my skills in backend development, focusing on C# and Java, and have gained extensive experience in DevOps practices. I am proficient in managing queues, working with AWS, designing architectures, and implementing RESTful, SOAP, and gRPC services. 
+&emsp;My professional path is driven by developing robust systems for the financial and healthcare sectors, ensuring compliance with strict standards. I possess deep expertise in implementing communication protocols (gRPC, REST, SOAP) and orchestrating resilient environments using Docker, Kubernetes, and AWS.  
 
-&emsp;My experience also includes using Jenkins for continuous integration and deployment, conducting comprehensive testing, and utilizing Docker and Kubernetes for containerization and orchestration. As a Linux enthusiast, I have a deep understanding of system administration, scripting, and leveraging command-line tools to streamline workflows. Additionally, I prioritize security in all aspects of development, ensuring robust and secure solutions for the financial and fintech sectors.
-
-&emsp;Due to my ease with numbers since my first experience in a bank, I have always continued working in the financial area, where I consider myself an enthusiast in relation to cryptocurrencies and blockchain. I have extensive experience in creating, integrating, and maintaining payment and finance software.
+&emsp;Within the Web3 ecosystem, I specialize in infrastructure layers, including custody protocols and Atomic Swaps (HTLC) across heterogeneous networks. As a power user of Linux and Emacs, I prioritize CLI/TUI-driven workflows to maximize technical efficiency and systemic control.
 
 <br />
 
 ``` erlang
--module(gabriel).
--export([about_me/0]).
+-module(haltam).
+-export([get_profile/0]).
 
-about_me() ->
-    io:format("0xHALTAMs~n"),
-    io:format("Backend/DevOps Developer~n"),
-    io:format("Emacs User~n").
+get_profile() ->
+    #{
+        role => "Cryptography & Infrastructure Developer",
+        stack => ["Go", "TS", "C#", "APL"],
+        academic => "B.Sc. Mathematics Student",
+        tools => "Emacs & CLI/TUI"
+    }.
 ```
 
 <br />
