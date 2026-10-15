@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://i.imgur.com/CNFDAAX.png" alt="Dev" />
+<img src="https://i.imgur.com/P5Eq7us.png" alt="Dev" />
 
 <br />
 
