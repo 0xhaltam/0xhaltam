@@ -1,7 +1,3 @@
-# About me
-
-<br />
-
 <img src="https://i.imgur.com/P5Eq7us.png" alt="Dev" />
 
 <br />
