@@ -1,7 +1,3 @@
-<img src="https://i.imgur.com/P5Eq7us.png" alt="Dev" />
-
-<br />
-
 ``` brainfuck
 +++ [> +++ < -] > [< ++++++++ > -] < .          
 > +++ [ > +++ < -] > - [< ++++++++ > -] < + .   
@@ -34,7 +30,7 @@ PROGRAM-ID. MYNAME.
 AUTHOR. FERNANDES. 
 
 PROCEDURE DIVISION.
-DISPLAY "0xHALTAM".
+DISPLAY "COBOL".
 STOP RUN.
 ```
 
@@ -49,13 +45,13 @@ STOP RUN.
 <br />
 
 ``` erlang
--module(haltam).
+-module(gabriel).
 -export([get_profile/0]).
 
 get_profile() ->
     #{
         role => "Cryptography & Infrastructure Developer",
-        stack => ["Go", "TS", "C#", "APL"],
+        stack => ["Go", "Rust", "C", "OCAML", "APL"],
         academic => "B.Sc. Mathematics Student",
         tools => "Emacs & CLI/TUI"
     }.
@@ -72,5 +68,7 @@ get_profile() ->
 <div align="center">
   <i>Come to the dark side of the force, S CLI+TUI 2...</i>
 </div>
+
 <br />
+
 <img src="https://i.imgur.com/XX0kWk3.gif" alt="Dev" />
