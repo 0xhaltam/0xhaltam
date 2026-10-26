@@ -23,7 +23,7 @@ PROGRAM-ID. MYNAME.
 AUTHOR. FERNANDES. 
 
 PROCEDURE DIVISION.
-DISPLAY "COBOL".
+DISPLAY "0xHALTAM".
 STOP RUN.
 ```
 
@@ -38,7 +38,7 @@ STOP RUN.
 <br />
 
 ``` erlang
--module(gabriel).
+-module(haltam).
 -export([get_profile/0]).
 
 get_profile() ->
